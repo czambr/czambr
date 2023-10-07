@@ -36,7 +36,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3>Github Stats</h3>
+<h3> 📈 Github Stats</h3>
 <hr>
 
 <a href="https://github.com/czambr">
