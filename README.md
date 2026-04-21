@@ -1,44 +1,88 @@
+<div align="center">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Carlos+%F0%9F%91%8B;Full+Stack+Developer;Building+scalable+web+solutions;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
- Hi there! I'm Carlos👋
+</div>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I worked as a Cobol Developer in Software Factory and I've participed as Full Stack Developer as freelance.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-<hr>
+### 🤓 About Me
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![ShellScripting](https://img.shields.io/badge/-ShellScripting-333333?style=flat&logo=gnubash)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-- 🛢 &nbsp;
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Postgresql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ⭐ &nbsp; **Full Stack Developer** focused on building fluid, secure and modern interfaces, backed by a functional and scalable backend architecture.
+- 💼 &nbsp; **Freelance** experience building end-to-end solutions for real clients.
+- 🌱 &nbsp; Currently exploring **Cloud Architecture**, **Systems Design** and **AI integration**.
+- 🤝 &nbsp; Open to **collaborations** on interesting and challenging projects.
+- 🎲 &nbsp; Fun fact: I once wrote production code in **COBOL** — yes, in this century.
 
-<h3> 📈 Github Stats</h3>
-<hr>
+```typescript
+const Carlos = {
+  mission:  "Build clean, scalable software that actually solves problems.",
+  focus:    ["TypeScript", "NestJS", "NextJS", "Cloud", "AI"],
+  approach: "Ship fast, refactor smart, document always.",
+  currently: "Deepening expertise in AWS & distributed systems.",
+};
+```
 
-<a href="https://github.com/czambr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czambr&theme=buefy&layout=compact" />
-</a>
+---
+
+### 🛠 Tech Stack
+
+#### Languages & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nestjs,react,nextjs,graphql&perline=8" />
+  </a>
+</p>
+
+#### Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle&perline=8" />
+  </a>
+</p>
+
+#### DevOps & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=czambr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=cdd6f4&include_all_commits=true"
+    alt="GitHub Stats" height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=czambr&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=cdd6f4"
+    alt="Top Languages" height="170"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=czambr&hide_border=true&background=0D1117&ring=6EE7B7&fire=34D399&currStreakLabel=cdd6f4&sideNums=cdd6f4&sideLabels=6EE7B7&dates=6EE7B7&currStreakNum=cdd6f4"
+    alt="GitHub Streak"
+  />
+</div>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=czambr&bg_color=0D1117&color=cdd6f4&line=6EE7B7&point=34D399&area_color=6EE7B710&hide_border=true"
+  alt="Contribution Graph"
+/>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6&height=100&section=footer" />
+
+*"First, solve the problem. Then, write the code."*
+
+_Made with 💚 by [Carlos](https://github.com/czambr)_
+
+</div>
