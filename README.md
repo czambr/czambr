@@ -30,7 +30,7 @@ const Carlos = {
 #### Languages & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,nestjs,react,nextjs,graphql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,nestjs,react,nextjs,graphql&perline=8" />
   </a>
 </p>
 
