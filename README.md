@@ -30,21 +30,21 @@ const Carlos = {
 #### Languages & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,nestjs,react,nextjs,graphql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,express,nestjs,graphql,react,nextjs,materialui,tailwind,shadcn" />
   </a>
 </p>
 
 #### Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma&perline=8" />
   </a>
 </p>
 
 #### DevOps & Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux,githubactions,bash" />
   </a>
 </p>
 
